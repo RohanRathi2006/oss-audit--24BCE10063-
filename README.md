@@ -30,7 +30,7 @@ Descriptions and Step-by-Step Instructions
 Before running any script, open your terminal, navigate to the folder where you saved these files, and give them execute permissions by running:
 
 Bash
-chmod +x *.sh
+chmod +x *.sh      (* in this is the name of each script)
 
 Script 1: System Identity Report (script1.sh)
 
